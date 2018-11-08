@@ -2,9 +2,9 @@
 
 ## Git Collaboration
 
-[What is Version Control](https://github.com/nazmariam/kottans-frontend/raw/master/task_git_collaboration/1.png)
+![What is Version Control](https://github.com/nazmariam/kottans-frontend/raw/master/task_git_collaboration/1.png)
 
-[GitHub & Collaboration](https://github.com/nazmariam/kottans-frontend/raw/master/task_git_collaboration/2.png)
+![GitHub & Collaboration](https://github.com/nazmariam/kottans-frontend/raw/master/task_git_collaboration/2.png)
 
 Oh, how much I was wrong when wrote my first reflections here about Git and Github :) 
 My best achievement is finally figured out with rebase. yeah, it's great
@@ -12,7 +12,7 @@ My best achievement is finally figured out with rebase. yeah, it's great
 
 ## Linux CLI, and HTTP
 
-[Linux CLI, and HTTP](https://github.com/nazmariam/kottans-frontend/raw/master/task_linux_cli/1.png)
+![Linux CLI, and HTTP](https://github.com/nazmariam/kottans-frontend/raw/master/task_linux_cli/1.png)
 
 Just passsed lessons on codeacademy.
 I learned linux/bash/http many many times before and at the begining course seemed to me very easy and borring BUT next I realised that I don't know many useful features. So it was great experience. Thank you! 
