@@ -1,5 +1,13 @@
 # kottans-frontend
 
+## Intro to HTML and CSS
+
+![Intro to HTML and CSS](https://github.com/nazmariam/kottans-frontend/raw/master/task_html_css_intro/1.png)
+
+![HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" free and paid courses done ](https://github.com/nazmariam/kottans-frontend/raw/master/task_html_css_intro/2.png)
+
+
+
 ## Git Collaboration
 
 ![What is Version Control](https://github.com/nazmariam/kottans-frontend/raw/master/task_git_collaboration/1.png)
