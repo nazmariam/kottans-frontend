@@ -4,9 +4,11 @@
 
 ![Intro to HTML and CSS](https://github.com/nazmariam/kottans-frontend/raw/master/task_html_css_intro/1.png)
 
+This course has interesting submission of information, perceived easily.
+
 ![HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" free and paid courses done ](https://github.com/nazmariam/kottans-frontend/raw/master/task_html_css_intro/2.png)
 
-
+I couldn't stop in time and passed both courses to the end :) It was the best waste of money of late))) my world will not be the same
 
 ## Git Collaboration
 
