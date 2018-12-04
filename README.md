@@ -1,5 +1,15 @@
 # kottans-frontend
 
+## Responsive Web Design
+
+![Responsive Web Design Fundamentals](https://github.com/nazmariam/kottans-frontend/raw/master/task_responsive_web_design/1.png)
+
+As always useful, especially the pattern part.
+
+![Flexbox Froggy](https://github.com/nazmariam/kottans-frontend/raw/master/task_responsive_web_design/2.png)
+
+Very interesting game, I didn't know about "flex-flow" before.
+
 ## Intro to HTML and CSS
 
 ![Intro to HTML and CSS](https://github.com/nazmariam/kottans-frontend/raw/master/task_html_css_intro/1.png)
