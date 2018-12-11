@@ -1,5 +1,20 @@
 # kottans-frontend
 
+## JS Basics
+
+![Intro to JS](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/1.png)
+
+Took a lot of time for me at this time, I did all the tasks and it wasn't easy for me.
+
+![freecodecamp Algorithm Scripting Challenges](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/2.png)
+
+The most useful part of all course I think, cause taking practice and solving tasks by yourself it is the best way to study
+
+![Data Structures and Algorithms in JavaScript](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/3.png)
+
+As to be honest it was difficult for me to understand ALL the material (he speaks very quickly) 
+
+
 ## Responsive Web Design
 
 ![Responsive Web Design Fundamentals](https://github.com/nazmariam/kottans-frontend/raw/master/task_responsive_web_design/1.png)
