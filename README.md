@@ -1,5 +1,15 @@
 # kottans-frontend
 
+## DOM
+
+![JavaScript and the DOM](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_dom/1.png)
+
+It was so helpful course, now I understand that I never didn't know JS :\
+
+![freecodecamp Algorithm Scripting Challenges](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_dom/2.png)
+
+No hints were used! But it took a lot of time
+
 ## JS Basics
 
 ![Intro to JS](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/1.png)
