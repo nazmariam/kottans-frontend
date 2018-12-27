@@ -10,6 +10,11 @@ It was so helpful course, now I understand that I never didn't know JS :\
 
 No hints were used! But it took a lot of time
 
+3d task:
+https://github.com/nazmariam/nazmariam.github.io/blob/master/kottans/index.html
+
+Reviewed and approved by @AMashoshyna
+
 ## JS Basics
 
 ![Intro to JS](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/1.png)
