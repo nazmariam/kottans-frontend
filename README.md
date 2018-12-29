@@ -1,5 +1,11 @@
 # kottans-frontend
 
+## A Tiny JS World
+
+https://github.com/nazmariam/nazmariam.github.io/tree/master/a-tiny-js-world
+
+Reviewed and approved by @OleksiyRudenko
+
 ## DOM
 
 ![JavaScript and the DOM](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_dom/1.png)
