@@ -1,10 +1,30 @@
 # kottans-frontend
 
+## Object Oriented JS
+
+![Object Oriented JS](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_oop/1.png)
+
+It was very painful, cause I understand that I know nothing. About video explanation, for me it was too fast, I had to play video slower and read a lot of articles to understand this topic.
+
+![codewars](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_oop/2.jpg)
+
+Cool site! And very interesting idea with those clans and wars, it is very interesting when you compete instead of just solving tasks.
+
+3d task (arcade-game "frogger"):
+
+https://github.com/nazmariam/nazmariam.github.io/tree/master/frogger
+
+Reviewed and approved by @mentor
+
+It was my first game! Yahooo! I did it by myself and...wait a minute... it works!!! I can't believe...
+
 ## A Tiny JS World
 
 https://github.com/nazmariam/nazmariam.github.io/tree/master/a-tiny-js-world
 
 Reviewed and approved by @OleksiyRudenko
+
+It was so helpful and interesting task! One of the most useful.
 
 ## DOM
 
