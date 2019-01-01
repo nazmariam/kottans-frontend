@@ -14,7 +14,7 @@ Cool site! And very interesting idea with those clans and wars, it is very inter
 
 https://github.com/nazmariam/nazmariam.github.io/tree/master/frogger
 
-Reviewed and approved by @mentor
+Reviewed and approved by @OleksiyRudenko
 
 It was my first game! Yahooo! I did it by myself and...wait a minute... it works!!! I can't believe...
 
