@@ -1,5 +1,23 @@
 # kottans-frontend
 
+## Memory Pair Game
+
+https://github.com/nazmariam/nazmariam.github.io/tree/master/memory-pair-game
+
+Reviewed and approved by @zonzujiro
+
+I couldn't believe that I can do it... until I done:D 
+During practice tasks became clear how useful was solving tasks on codecamp and codewars. It is one of the powerful parts of all the course. Only reviews are cooler than this:)
+
+## OOP Exercise
+
+https://github.com/nazmariam/nazmariam.github.io/tree/master/post-oop
+
+Reviewed and approved by @OleksiyRudenko
+
+At last I understood what have I doing:D
+And now I see that OOP is a very cool and useful thing. 
+
 ## Object Oriented JS
 
 ![Object Oriented JS](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_oop/1.png)
