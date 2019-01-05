@@ -1,5 +1,17 @@
 # kottans-frontend
 
+## Friends App
+
+Demo: https://nazmariam.github.io/friends-app
+Source: https://github.com/nazmariam/nazmariam.github.io/tree/master/friends-app
+
+Reviewed and approved by @zonzujiro
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+![free](https://github.com/nazmariam/kottans-frontend/raw/master/img/1.gif)
+
+
 ## Memory Pair Game
 
 https://github.com/nazmariam/nazmariam.github.io/tree/master/memory-pair-game
