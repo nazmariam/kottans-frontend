@@ -11,6 +11,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ![free](https://github.com/nazmariam/kottans-frontend/raw/master/img/1.gif)
 
+## Website Performance Optimization
+
+![Website Performance Optimization](https://github.com/nazmariam/kottans-frontend/raw/master/task_website_performance/1.png)
+
+![Website Performance Optimization](https://github.com/nazmariam/kottans-frontend/raw/master/task_website_performance/2.png)
+
+![Website Performance Optimization](https://github.com/nazmariam/kottans-frontend/raw/master/task_website_performance/3.png)
+
+It was hard. Much information isn't clear because there is a lot of it, it is new for me, the task was held in an accelerated mode etc. But I think I should use this in real projects, maybe it would be clear after more practice.
 
 ## Memory Pair Game
 
