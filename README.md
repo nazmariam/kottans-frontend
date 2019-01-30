@@ -100,7 +100,24 @@ The most useful part of all course I think, cause taking practice and solving ta
 
 ![Data Structures and Algorithms in JavaScript](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/3.png)
 
-As to be honest it was difficult for me to understand ALL the material (he speaks very quickly) 
+As to be honest it was difficult for me to understand ALL the material (he speaks very quickly)
+ 
+![Basic JavaScript](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/4.png)
+
+ 
+![ES6 Challenges](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/5.png)
+
+
+![Basic Data Structures](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/6.png)
+
+
+![Basic Algorithm Scripting](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/7.png)
+
+
+![Functional Programming](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_basics/8.png)
+
+Finally learned the basic functionality of JS, now I understand how to solve problems quickly and qualitatively.
+Oh, and spread operators are pure magic!
 
 
 ## Responsive Web Design
