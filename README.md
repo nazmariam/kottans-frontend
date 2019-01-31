@@ -58,7 +58,7 @@ And now I see that OOP is a very cool and useful thing.
 
 It was very painful, cause I understand that I know nothing. About video explanation, for me it was too fast, I had to play video slower and read a lot of articles to understand this topic.
 
-[Codewars](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_oop/2.jpg)
+[Codewars](https://github.com/nazmariam/kottans-frontend/raw/master/task_js_oop/2.png)
 
 Cool site! And very interesting idea with those clans and wars, it is very interesting when you compete instead of just solving tasks.
 
