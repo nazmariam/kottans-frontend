@@ -33,7 +33,7 @@ Reviewed and approved by @zonzujiro
 I couldn't believe that I can do it... until I done:D 
 During practice tasks became clear how useful was solving tasks on codecamp and codewars. It is one of the powerful parts of all the course. Only reviews are cooler than this:)
 
-##Offline Web Applications
+## Offline Web Applications
 
 [Offline Web Applications](https://github.com/nazmariam/kottans-frontend/raw/master/task_offline_web_app/1.png)
 
