@@ -16,7 +16,7 @@ Interesting task, helpful code review. I wish, I'll never need to use BEM. ðŸ¤žð
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/friends-app)
 
-Reviewed and approved by @zonzujiro
+Reviewed and approved by **@zonzujiro**
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -38,7 +38,7 @@ It was hard. Much information isn't clear because there is a lot of it, it is ne
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/memory-pair-game)
 
-Reviewed and approved by @zonzujiro
+Reviewed and approved by **@zonzujiro**
 
 I couldn't believe that I can do it... until I done:D 
 During practice tasks became clear how useful was solving tasks on codecamp and codewars. It is one of the powerful parts of all the course. Only reviews are cooler than this:)
@@ -57,7 +57,7 @@ It was very very hard, I realized how much I should learn before using service w
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/post-oop)
 
-Reviewed and approved by @OleksiyRudenko
+Reviewed and approved by **@OleksiyRudenko**
 
 At last I understood what have I doing:D
 And now I see that OOP is a very cool and useful thing. 
@@ -78,7 +78,7 @@ Cool site! And very interesting idea with those clans and wars, it is very inter
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/frogger)
 
-Reviewed and approved by @OleksiyRudenko
+Reviewed and approved by **@OleksiyRudenko**
 
 It was my first game! Yahooo! I did it by myself and...wait a minute... it works!!! I can't believe...
 
@@ -88,7 +88,7 @@ It was my first game! Yahooo! I did it by myself and...wait a minute... it works
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/a-tiny-js-world)
 
-Reviewed and approved by @OleksiyRudenko
+Reviewed and approved by **@OleksiyRudenko**
 
 It was so helpful and interesting task! One of the most useful.
 
@@ -108,7 +108,7 @@ No hints were used! But it took a lot of time
 
 [Source](https://github.com/nazmariam/nazmariam.github.io/blob/master/kottans/index.html)
 
-Reviewed and approved by @AMashoshyna
+Reviewed and approved by **@AMashoshyna**
 
 ## JS Basics
 
