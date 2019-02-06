@@ -1,5 +1,15 @@
 # kottans-frontend
 
+## HTML & CSS practice: Google-style Popup
+
+[Demo](http://nazmariam.github.io/google_popup)
+
+[Source](https://github.com/nazmariam/nazmariam.github.io/tree/master/google_popup)
+
+Reviewed and approved by @A-Ostrovnyy
+
+Interesting task, helpful code review. I wish, I'll never need to use BEM. 🤞🤞
+
 ## Friends App
 
 [Demo](https://nazmariam.github.io/friends-app)
